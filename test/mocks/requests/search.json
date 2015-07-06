@@ -41,7 +41,7 @@
   "start": "11",
   "length": "10",
   "search": {
-    "value": "",
+    "value": "test",
     "regex": "false"
   },
   "_": "1436203802752"
