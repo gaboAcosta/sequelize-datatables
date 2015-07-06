@@ -10,5 +10,11 @@
   "unused": true,
   "boss": true,
   "eqnull": true,
-  "node": true
+  "node": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "context": false
+  }
+
 }

@@ -1,0 +1,48 @@
+{
+  "draw": "1",
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": "true",
+      "orderable": "true",
+      "search": {
+        "value": "",
+        "regex": "false"
+      }
+    },
+    {
+      "data": "name",
+      "name": "",
+      "searchable": "true",
+      "orderable": "true",
+      "search": {
+        "value": "",
+        "regex": "false"
+      }
+    },
+    {
+      "data": "email",
+      "name": "",
+      "searchable": "true",
+      "orderable": "true",
+      "search": {
+        "value": "",
+        "regex": "false"
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": "0",
+      "dir": "asc"
+    }
+  ],
+  "start": "0",
+  "length": "10",
+  "search": {
+    "value": "",
+    "regex": "false"
+  },
+  "_": "1436203802752"
+}
