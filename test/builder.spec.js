@@ -70,9 +70,6 @@ describe('DtBuilder Pagination', function() {
         limit: "10"
       };
       builder = new Builder({},req);
-      console.log('===EXPECTED===');
-      console.log(expected);
-      console.log('===EXPECTED===');
       expect(builder.getParams()).to.deep.equal(expected);
     });
   });
